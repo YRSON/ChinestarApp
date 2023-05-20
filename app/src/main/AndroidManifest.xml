@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="idat.dami.chinestarapp">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fitsSystemWindows="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChinestarApp"
+        android:windowSoftInputMode="adjustResize"
+        tools:targetApi="31">
+        <activity
+            android:name=".AgregarComentarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Formatos.DetalleFormatoDBoxActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MinionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ThorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Inicio.CarteleraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NickjrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AsesinoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ElvisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DinoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BestiaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CAmigosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JurasicWorl"
+            android:exported="false" />
+        <activity
+            android:name=".AvatarActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Inicio.DetallePeliculaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewComentarios.ComentariosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Formatos.DetalleFormatoXDActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewConfiteria.DetailActivityConfiteria"
+            android:exported="false" />
+        <activity
+            android:name=".RegistroActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewConfiteria.ConfiteriaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewPromociones.PromoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Formatos.FormatosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewCine.CinesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Inicio.IntroActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">ChineStar</string>
+    <!-- Main Principales -->
+    <string name="main_inicio">Inicio</string>
+    <string name="main_cines">Cines</string>
+    <string name="main_confiteria">Confiteria</string>
+    <string name="main_formatos">Formatos</string>
+    <string name="main_promocinoes">Promociones</string>
+    <string name="main_login">Login</string>
+
+    <!-- Main Cines -->
+    <string name="departamentos">Lima</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Inicio de Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="usuario_help">usuario es tu email</string>
+    <string name="usuario_error">ingresa email válido</string>
+    <string name="password">contraseña</string>
+    <string name="password_help">usa solo números y letras</string>
+    <string name="password_error">debe tener min 8 caracteres</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_cancelar">Cancelar</string>
+
+    <!-- Main -->
+    <string name="text_Estreno">Estreno</string>
+    <string name="text_Cartelera">Cartelera</string>
+
+    <!-- Registro -->
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="registrar">Registrar</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="genero">Genero:</string>
+    <string name="email">Correo</string>
+    <string name="new_password">Nueva Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="descripcion_dbox">Formato DBOX</string>
+    <string name="descripcion_real">Formato 3D</string>
+    <string name="title_activity_comentarios">ComentariosActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Sinopsis de Peliculas -->
+    <string name="avatar2">Ambientada más de una década después de los sucesos que tuvieron lugar en la primera película, AVATAR: EL CAMINO DEL AGUA narra la historia de la familia Sully (Jake, Neytiri y sus hijos), el peligro que los persigue, los esfuerzos que hacen para mantenerse a salvo, las batallas que libran para seguir con vida, y las tragedias que sobrellevan.</string>
+    <string name="world">Cuatro años después de la destrucción volcánica de Isla Nublar y el incidente de la mansión Lockwood, los desextintos dinosaurios ahora viven junto a los humanos. Claire Dearing, ex directora de operaciones de Jurassic World, trabaja para proteger a los dinosaurios de las organizaciones de cría ilegales.</string>
+    <string name="cosasdeamigos">Raúl (Rodrigo Sánchez Patiño), Eduardo (Oscar López Arias) y Santiago (Bruno Ascenzo) son amigos desde la infancia y han tenido una feliz y “masculina” vida, hasta que Santiago les confiesa que es gay y decide separarse de su novia Natalia (Gisela Ponce De León), hermana de Raúl.</string>
+    <string name="bestia">Un padre y sus dos hijas adolescentes se ven perseguidos por un enorme león rebelde que intenta demostrar que la sabana solo tiene un depredador ápice.</string>
+    <string name="dinoking">El tarbosaurus Speckles, ya un adulto, viaja con su hijo Junior en busca de comida y refugio. Sin embargo, después de un enfrentamiento, Junior es secuestrado por un dinosaurio más fuerte. Para salvarlo, Speckles emprende una difícil travesía a la peligrosa “Montaña de fuego”.</string>
+    <string name="elvis">La película explora la vida y la música de Elvis Presley (Butler) a través del prisma de su complicada relación con el coronel Tom Parker (Hanks), su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de 20 años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley (Olivia DeJonge), una de las personas más importantes e influyentes en la vida de Elvis.</string>
+    <string name="asesinosinmemoria">Un asesino a sueldo descubre que se ha convertido en un objetivo después de que se niega a completar un trabajo para una peligrosa organización criminal.</string>
+    <string name="nickjr">Por primera vez juntos en pantalla grande llegan los personajes más queridos de Nick Jr: Paw Patrol, Santiago de Los Mares, Las Pistas de Blue y Tú, y Baby Shark. Esta increíble experiencia será presentada por nuestros amigos de Garden Academy, quienes nos acompañarán en las aventuras más divertidas. Cada uno de los episodios exclusivos nos mostrará historias nunca antes vistas, con toda la magia del cine para los más pequeños de la casa, de la mano de Nick Jr.</string>
+    <string name="thor">Thor solicita la ayuda de Valkyrie, Korg y su ex novia Jane Foster para luchar contra Gorr the God Butcher, que tiene la intención de extinguir a los dioses.</string>
+    <string name="minions">Hasta los villanos tuvieron una adolescencia difícil, Minions: Nace Un Villano, la franquicia animada más grande de la historia y fenómeno cultural mundial, nos presenta a un Gru niño, de 12 años, y su sueño de convertirse en el supervillano más grande del mundo. En el corazón de la década de los setentas, en medio de una oleada de cabello con plumas y jeans acampanados, Gru (nominado al Oscar® Steve Carrell) está creciendo en los suburbios. Fan de un supergrupo de supervillanos conocido como Vicious 6, Gru trama un plan para volverse lo suficientemente malvado como para unirse a ellos. Por suerte, obtiene algunos refuerzos de sus fieles seguidores, los Minions. Juntos, Kevin, Stuart, Bob y Otto, un nuevo Minion y su necesidad desesperada de complacer, despliegan sus habilidades mientras ellos y Gru construyen su primera guarida, experimentan con sus primeras armas y realizan sus primeras misiones. Cuando los Vicious 6 expulsan a su líder, el legendario luchador Wild Knuckles (ganador del Oscar® Alan Arkin), Gru se entrevista para convertirse en su nuevo miembro. No va bien (por decir lo menos), y sólo empeora después de que Gru los supera y de repente se encuentra el enemigo mortal de la cúspide del mal. En la carrera, Gru recurrirá a una fuente poco probable de guía, el propio Wild Knuckles, y descubrirá que incluso los malos necesitan un poco de ayuda de sus amigos.</string>
+
+
+    <!-- Zonas Cines -->
+    <string name="zonaLima">Lima</string>
+    <string name="zonaNorte">Norte</string>
+    <string name="zonaCentro">Centro</string>
+    <string name="zonaSur">Sur</string>
+
+</resources>

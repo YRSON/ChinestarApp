@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title=""
+        android:id="@+id/dulcesId"
+        android:icon="@drawable/dulces"
+        />
+    <item android:title=""
+        android:id="@+id/canchitaId"
+        android:icon="@drawable/palomitasmaiz"/>
+    <item android:title=""
+        android:id="@+id/bebidasId"
+        android:icon="@drawable/bebidas"/>
+</menu>

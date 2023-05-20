@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChineStar</string>
+    <!-- Main Principales -->
+    <string name="main_inicio">Start</string>
+    <string name="main_cines">Cinema</string>
+    <string name="main_confiteria">Confectionery</string>
+    <string name="main_formatos">Format</string>
+    <string name="main_promocinoes">Promotions</string>
+    <string name="main_login">Login</string>
+
+    <!-- Main Cines -->
+    <string name="departamentos">Lime</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Start of Sesion</string>
+    <string name="usuario">User</string>
+    <string name="usuario_help">User is the Email</string>
+    <string name="usuario_error">Enter Valid Email</string>
+    <string name="password">Password</string>
+    <string name="password_help">Use Only Numbers and Letters</string>
+    <string name="password_error">Must Have a Minimum of 8 Characteres</string>
+    <string name="btn_ingresar">Enter</string>
+    <string name="btn_cancelar">Cancel</string>
+
+
+    <!-- Main -->
+    <string name="text_Estreno">Estreno</string>
+    <string name="text_Cartelera">Cartelera</string>
+
+    <!-- Registro -->
+    <string name="masculino">Men</string>
+    <string name="femenino">Woman</string>
+    <string name="nombres">Names</string>
+    <string name="apellidos">Surnames</string>
+    <string name="registrar">Register</string>
+    <string name="fecha_nacimiento">Date of birth</string>
+    <string name="genero">Gender:</string>
+    <string name="email">Email</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+
+
+</resources>
